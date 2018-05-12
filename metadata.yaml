@@ -20,6 +20,8 @@ description: This fascinating biography of one of the world's most famous cities
   60 images, photographs, engravings and drawings, this excellent book is a must-have
   for those who live in the city, have visited - or plan to visit - at some point,
   or those who want to know the story of England's capital.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27995#The-History-of-London
 gutenberg_bookshelf: United Kingdom
 gutenberg_issued: '2009-02-04'
 gutenberg_type: Text
