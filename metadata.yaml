@@ -1,0 +1,36 @@
+_repo: The-History-of-London_27995
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Besant, Walter
+    aliases:
+    - Maurice, Walter
+    - Besant, Sir Walter
+    birthdate: 1836
+    deathdate: 1901
+    gutenberg_agent_id: '5404'
+    url: http://www.gutenberg.org/2009/agents/5404
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Besant
+description: This fascinating biography of one of the world's most famous cities was
+  originally published in the early 20th Century. It chronicles the life of London
+  from its days as an early settlement through to more modern times. Including over
+  60 images, photographs, engravings and drawings, this excellent book is a must-have
+  for those who live in the city, have visited - or plan to visit - at some point,
+  or those who want to know the story of England's capital.
+gutenberg_bookshelf: United Kingdom
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27995'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'London (England) -- History'
+title: The History of London
+url: http://www.gutenberg.org/ebooks/27995
